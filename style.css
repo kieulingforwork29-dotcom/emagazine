@@ -603,7 +603,7 @@ p:last-child {
   font-weight: 900;
   color: #fff;
   line-height: 1.15;
-  max-width: 800px;
+  max-width: none;
   margin: 0 auto 1.25rem;
 }
 
