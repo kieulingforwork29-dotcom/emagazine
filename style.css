@@ -612,6 +612,10 @@ p:last-child {
   color: var(--gold-light);
 }
 
+h2 em {
+    white-space: nowrap;
+}
+
 .closing p {
   color: rgba(255, 255, 255, .4);
   max-width: 480px;
