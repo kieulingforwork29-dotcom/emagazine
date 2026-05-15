@@ -610,6 +610,7 @@ p:last-child {
 .closing h2 em {
   font-style: italic;
   color: var(--gold-light);
+  white-space: nowrap; 
 }
 
 
