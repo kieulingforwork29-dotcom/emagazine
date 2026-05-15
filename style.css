@@ -603,7 +603,7 @@ p:last-child {
   font-weight: 900;
   color: #fff;
   line-height: 1.15;
-  max-width: 660px;
+  max-width: 800px;
   margin: 0 auto 1.25rem;
 }
 
@@ -612,8 +612,7 @@ p:last-child {
   color: var(--gold-light);
 }
 
-h2 em {
-    white-space: nowrap;
+
 }
 
 .closing p {
